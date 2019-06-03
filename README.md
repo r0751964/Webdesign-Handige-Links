@@ -25,7 +25,7 @@ Handige links verkregen via school en persoonlijke ervaringen
 - [Sinners](#sinners)
 
 ## Algemeen
-- Emmet: https://docs.emmet.io/cheat-sheet/
+- Emmet: <https://docs.emmet.io/cheat-sheet/>
 - Git cheatsheet: https://rogerdudler.github.io/git-guide/
 
 ## HTML Forms
