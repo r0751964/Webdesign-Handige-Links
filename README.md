@@ -1,5 +1,16 @@
-# Webdesign-Handige-Links
+# Webdesign Handige Links
 Handige links verkregen via school en persoonlijke ervaringen
+
+
+[Link naar Theorie Website](https://r0751964.github.io/Webdesign-Theorie/)  
+[Link naar Theorie pure tekst, als je dat liever hebt](https://github.com/r0751964/Webdesign-Theorie/blob/master/README.md)
+
+[Link naar Voorbeelden Website](https://r0751964.github.io/Webdesign-Cursus-Voorbeelden/)  
+[Link naar Voorbeelden pure tekst, als je dat liever hebt](https://github.com/r0751964/Webdesign-Cursus-Voorbeelden/blob/master/README.md)
+
+[Link naar Handige Links Website](https://r0751964.github.io/Webdesign-Handige-Links/)  
+[Link naar Handige Links pure tekst, als je dat liever hebt](https://github.com/r0751964/Webdesign-Handige-Links/blob/master/README.md)  
+
 
 ## Inhoudstabel:
 - [Algemeen](#algemeen)
